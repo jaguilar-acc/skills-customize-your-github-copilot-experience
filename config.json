@@ -79,5 +79,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "intro-sqlite",
+      "title": "Introduction to SQL and SQLite",
+      "description": "Learn SQL basics and use SQLite from Python to create, query, and modify data.",
+      "path": "assignments/intro-sqlite",
+      "dueDate": "2026-05-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Seed SQL",
+          "file": "seed.sql",
+          "type": "sql"
+        }
+      ]
+    }
   ]
 }
